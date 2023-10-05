@@ -1,0 +1,7 @@
+C:\Users\ldryo\source\repos\dotNETapp\dotNETapp\bin\Debug\dotNETapp.exe.config
+C:\Users\ldryo\source\repos\dotNETapp\dotNETapp\bin\Debug\dotNETapp.exe
+C:\Users\ldryo\source\repos\dotNETapp\dotNETapp\bin\Debug\dotNETapp.pdb
+C:\Users\ldryo\source\repos\dotNETapp\dotNETapp\obj\Debug\dotNETapp.csproj.AssemblyReference.cache
+C:\Users\ldryo\source\repos\dotNETapp\dotNETapp\obj\Debug\dotNETapp.csproj.CoreCompileInputs.cache
+C:\Users\ldryo\source\repos\dotNETapp\dotNETapp\obj\Debug\dotNETapp.exe
+C:\Users\ldryo\source\repos\dotNETapp\dotNETapp\obj\Debug\dotNETapp.pdb
